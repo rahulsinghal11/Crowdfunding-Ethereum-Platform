@@ -30,7 +30,7 @@ And then do the same following commands as shown above for starting the applicat
 
 ## Built With
 
-Solidity - Ethereum's smart contract programming language
-Vue.js - The Javascript framework used
-Vuetify - Material Design Component Framework
-web3.js - Javascript library used to interact with the Ethereum blockchain
+* [Solidity](https://solidity.readthedocs.io/en/v0.5.2/) - Ethereum's smart contract programming language
+* [Vue.js](https://vuejs.org/) - The Javascript framework used
+* [Vuetify](https://vuetifyjs.com/en/) - Material Design Component Framework
+* [web3.js](https://github.com/ethereum/web3.js/) - Javascript library used to interact with the Ethereum blockchain
