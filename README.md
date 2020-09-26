@@ -2,13 +2,13 @@
 
 A simple Ethereum-based crowdfunding decentralized application (dapp) where you can start and fund crowdfunding projects. It uses Ether, a cryptocurrency, as the medium of exchange (currency).
 
-Prerequisites
+## Prerequisites
 
-Node - v10.x.x (preferrably v10.15.0 for long term support)
+* **Node** - v10.x.x (preferrably v10.15.0 for long term support)
 
-npm - v6.x.x (preferrably v6.6.0)
+* **npm** - v6.x.x (preferrably v6.6.0)
 
-Running It Locally
+## Running It Locally
 
 Clone this repo via to your local machine and install the dependencies by doing the following:
 
@@ -20,7 +20,7 @@ Start the application in a development environment via:
 
     npm run serve
 
-Boilerplate
+## Boilerplate
 
 If it is only the boilerplate that you want to clone, do it via:
 
@@ -28,7 +28,7 @@ If it is only the boilerplate that you want to clone, do it via:
 
 And then do the same following commands as shown above for starting the application, you should be all set by then.
 
-Built With
+## Built With
 
 Solidity - Ethereum's smart contract programming language
 Vue.js - The Javascript framework used
