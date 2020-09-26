@@ -2,6 +2,8 @@
 
 A simple Ethereum-based crowdfunding decentralized application (dapp) where you can start and fund crowdfunding projects. It uses Ether, a cryptocurrency, as the medium of exchange (currency).
 
+![Website Demo](https://camo.githubusercontent.com/29cdf24725b02e471ef95993383e83521d4784c3/68747470733a2f2f692e696d6775722e636f6d2f6d6d6e50484c662e676966)
+
 ## Prerequisites
 
 * **Node** - v10.x.x (preferrably v10.15.0 for long term support)
